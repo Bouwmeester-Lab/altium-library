@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\emore\OneDrive\altium-library\altium-library\Celestial.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\dylan\Mazin Lab\Bouwmeester Lab\altium-library\Celestial.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,13 +19,16 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistor - Chip
+LastFocusedTable=Silicon Die Holders
 [Table1]
 SchemaName=
 TableName=ADC - Programmable
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=145|Description0=293|Footprint Ref0=227|Footprint Path0=211|Library Ref0=165|Library Path0=167|Footprint Ref 20=153|Footprint Path 20=164|Footprint Ref 30=153|Footprint Path 30=164|PartId0=86|Value0=83|Comment0=135|Manufacturer0=148|Supplier 10=116|Supplier Part Number 10=220|ComponentLink1Description0=256|ComponentLink1URL0=571|ComponentLink2Description0=256|ComponentLink2URL0=795|ComponentLink3Description0=256|ComponentLink3URL0=200|Supplier 20=116|Supplier Part Number 20=220|Price0=77|Type0=76|Device Package0=268|Series0=84|Number of Bits0=155|Samping Rate0=146|Number of Inputs0=176|Input Type0=201|Data Interface0=148|Configuration0=145|Ratio - S/H:ADC0=162|Number of A/D Converters0=245|Architecture0=133|Reference Type0=199|Voltage - Supply, Analog0=230|Voltage - Supply, Digital0=225|Features0=206
 [Table2]
 SchemaName=
 TableName=Audio - Amplifier
@@ -416,9 +419,6 @@ TableName=Resistor - Chip
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=251|Description0=402|Footprint Ref0=171|Footprint Path0=266|Library Ref0=148|Library Path0=250|Footprint Ref 20=191|Footprint Path 20=199|Footprint Ref 30=189|Footprint Path 30=199|PartId0=101|Value0=98|Comment0=140|Manufacturer0=413|Supplier 10=142|Supplier Part Number 10=272|ComponentLink1Description0=318|ComponentLink1URL0=1321|ComponentLink2Description0=318|ComponentLink2URL0=1273|ComponentLink3Description0=318|ComponentLink3URL0=247|TemperatureRange0=231|TemperatureCoefficient0=274|Tolerance0=139|PowerRating0=166|Supplier 20=142|Supplier Part Number 20=272|Price0=91|Type0=110|Device Package0=198
 [Table67]
 SchemaName=
 TableName=Resistor - Current Sense
@@ -467,6 +467,9 @@ TableName=Silicon Die Holders
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=260|Description0=791|FootprintRef0=315|FootprintPath0=290|SymbolRef0=197|SymbolPath0=275|Value0=83|Comment0=116|MfrPartNo0=120|Manufacturer0=143|Supplier10=111|Supplier1PartNo0=165|ComponentLink1Description0=256|ComponentLink1URL0=200|ComponentLink2Description0=256|ComponentLink2URL0=200|ComponentLink3Description0=256|ComponentLink3URL0=200|FootprintRef20=143|FootprintPath20=154|FootprintRef30=143|FootprintPath30=154|Type0=76
 [Table75]
 SchemaName=
 TableName=Test Point
