@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Diode - Rectifier
+LastFocusedTable=Digital to Analogue Converter
 [Table1]
 SchemaName=
 TableName=ADC - Programmable
@@ -182,15 +182,15 @@ TableName=Digital to Analogue Converter
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=206|Description0=310|Footprint Ref0=141|Footprint Path0=203|Library Ref0=172|Library Path0=167|Footprint Ref 20=153|Footprint Path 20=164|Footprint Ref 30=153|Footprint Path 30=164|PartId0=86|Value0=83|Comment0=135|Manufacturer0=148|Supplier 10=116|Supplier Part Number 10=257|ComponentLink1Description0=256|ComponentLink1URL0=379|ComponentLink2Description0=256|ComponentLink2URL0=882|ComponentLink3Description0=256|ComponentLink3URL0=200|Supplier 20=116|Supplier Part Number 20=220|Price0=77|Type0=157|Device Package0=331|Number of Bits0=155|Data Interface0=273|Number of Converters0=210|Operating Temperature0=220
 [Table28]
 SchemaName=
 TableName=Diode - Rectifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=156|Description0=315|Footprint Ref0=155|Footprint Path0=200|Library Ref0=120|Library Path0=185|Footprint Ref 20=153|Footprint Path 20=164|Footprint Ref 30=153|Footprint Path 30=164|PartId0=86|Comment0=135|Manufacturer0=300|Supplier 10=116|Supplier Part Number 10=224|ComponentLink1Description0=256|ComponentLink1URL0=903|ComponentLink2Description0=256|ComponentLink2URL0=1051|ComponentLink3Description0=256|ComponentLink3URL0=200|Junction Operating Temperature0=289|Supplier 20=116|Supplier Part Number 20=220|Price0=77|Type0=122|Device Package0=158|Current Reverse Leakage @ Vr0=271|Reverse Recovery Time (trr)0=246|Voltage DC Reverse (Vr)0=222|Current Rectified0=168|Voltage Forward (Vf)0=196
 [Table29]
 SchemaName=
 TableName=Diode - TVS
