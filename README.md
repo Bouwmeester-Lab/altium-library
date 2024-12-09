@@ -1,3 +1,13 @@
+## Installation locally:
+
+1. Clone the repo in a folder somewhere in your PC.
+2. Install the library in Altium by going into Settings -> Data Management -> File Based Libraries -> Add -> browse for .dblib file.
+3. If it works then good, if not do 4.:
+4. Open .dblib file, and make sure the path is correct by clicking on Browse, and fiding the `Celestial.mdb` file in the folder.
+5. Save the .dblib file.
+6. Close Altium, reopen.
+
+
 # Celestial Altium Library
 
 An exceptional, open source database library for Altium, currently supporting MSSQL and SQL Azure as the backend for easy use within teams, and no data corruption unlike MS Access.
